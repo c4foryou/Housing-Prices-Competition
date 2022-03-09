@@ -1,6 +1,6 @@
 # Kaggle Competition: **Housing Prices Competition** (Ridge)
 
-# **Summary**
+## **Summary**
 
 ### **Introduction**
 
